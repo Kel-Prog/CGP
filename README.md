@@ -1,2 +1,2 @@
-# CGP
+# CGP-Project
 Organization !!!
